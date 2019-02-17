@@ -1,0 +1,9 @@
+.image-list
+{
+    display:flex;
+    flex-wrap: wrap;
+}
+.image-list img{
+    width: 250px;
+    padding: 10px;
+}
